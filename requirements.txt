@@ -1,0 +1,8 @@
+arviz==0.17.1
+ipykernel
+matplotlib
+numpy==1.23.0
+pandas
+pymc
+scipy==1.9.3
+xarray==2024.2.0
