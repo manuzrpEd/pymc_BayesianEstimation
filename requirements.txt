@@ -1,8 +1,10 @@
 arviz==0.17.1
+graphviz
 ipykernel
 matplotlib
 numpy==1.23.0
 pandas
 pymc
+pytensor==2.19.0
 scipy==1.9.3
 xarray==2024.2.0
