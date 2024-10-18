@@ -9,3 +9,7 @@ https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/pymc_overview.h
 https://github.com/pymc-devs/pymc/tree/main/docs/source/learn/core_notebooks
 
 https://www.pymc.io/projects/examples/en/latest/case_studies/rugby_analytics.html
+
+https://www.pymc.io/projects/examples/en/latest/case_studies/putting_workflow.html
+
+https://www.pymc.io/projects/examples/en/latest/case_studies/item_response_nba.html
